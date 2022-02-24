@@ -1,9 +1,3 @@
-Ahora es gamer
-<<<<<<< HEAD
- 
-
+Ahora es gamer parte 2
 Pruebas ahora mismo Gabriel
-=======
 Modifico al Kun
-
->>>>>>> 0f201438c267aeda59e42f944860d18e5decadfb
